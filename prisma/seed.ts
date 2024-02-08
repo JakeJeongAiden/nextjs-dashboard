@@ -6,6 +6,7 @@ const events = [
   {
     id: 1,
     email: 'DJ Practice Session',
+    name: 'DJ Practice Session',
   },
   {
     id: Math.floor(Math.random() * 10000000),
